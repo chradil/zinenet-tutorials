@@ -1,0 +1,887 @@
+{
+  "nodes": [
+    {
+      "label": "A queer and trans fat activist timeline",
+      "x": -298.876708984375,
+      "y": 501.90069580078125,
+      "id": "A queer and trans fat activist timeline",
+      "attributes": {
+        "date": "2011",
+        "illustrated?": "ill.",
+        "notes": "\"This timeline was constructed at a workshop called \u0027The time of our lives : fighting fat panic through fat history, memory, and culture\u0027 ... at NOLOSE, Oakland, California on Friday 4 June 2010.\"--P. 33.;Gift of the author, donated in 2011 or 2012.",
+        "author": "Charlotte Cooper",
+        "description": "Charlotte, a queer, working class, white, middle-aged, polyamorous sociology PhD student, writes about fat activist history pioneered by queer and trans people. The zine includes a list of other zines written by Charlotte and contact info. The second half of the zine is a general timeline of fat activism dating 1967-2010 in Great Britain and the U.S.",
+        "title": "A queer and trans fat activist timeline",
+        "pages": "33 p. :",
+        "genre": "Fanzines.; ;",
+        "publisher": "C. Cooper,",
+        "location": "East London, England :",
+        "byline": "Charlotte Cooper.",
+        "650$a - lcsh": "Obesity; Overweight women; Lesbians; Transgender people",
+        "dimensions": "21 cm."
+      },
+      "color": "rgb(232,203,37)",
+      "size": 10.0
+    },
+    {
+      "label": "Trampoline",
+      "x": 242.87716674804688,
+      "y": 388.5540466308594,
+      "id": "Trampoline",
+      "attributes": {
+        "date": "2005",
+        "illustrated?": "ill.",
+        "notes": "Cover title.;Gift of Sweet Candy Distro, donated in 2008.",
+        "author": "Jessica Bublitz",
+        "description": "This a short 24-hour minicomic made for the 24 Hour Comic Challenge in 2005. The comic is based on the song Trampoline by Damien Jurado and pictures children and their conflicts.",
+        "title": "Trampoline",
+        "650$v": "Comic books, strips, etc.",
+        "pages": "[22] p.",
+        "subtitle": "24 hour comic challenge 2005.",
+        "genre": "24-hour zines.; Minicomics.;",
+        "publisher": "the author,",
+        "location": "West Bend, WI :",
+        "650$a - lcsh": "Trampolines",
+        "dimensions": "11 cm"
+      },
+      "color": "rgb(181,104,166)",
+      "size": 10.0
+    },
+    {
+      "label": "24-hour zines.",
+      "x": 22.988231658935547,
+      "y": 131.10269165039062,
+      "id": "24-hour zines.",
+      "attributes": { "type": "Genre" },
+      "color": "rgb(255,30,234)",
+      "size": 10.0
+    },
+    {
+      "label": "Don\u0027t send me flowers",
+      "x": 400.98797607421875,
+      "y": -552.842529296875,
+      "id": "Don\u0027t send me flowers",
+      "attributes": {
+        "date": "2002",
+        "illustrated?": "ill.",
+        "notes": "Cover title.;Purchased at the Portland Zine Symposium in 2005.",
+        "author": "Alex Wrekk",
+        "description": "This split zine was done in one day by Alex Wrekk and her sister, W. W. writes about having endometriosis and recovering from surgery, which she had before the zine was completed. Alex writes about Eugene, her car, and taking care of her sister.",
+        "title": "Don\u0027t send me flowers",
+        "650$v": "Personal narratives.",
+        "pages": "[23] p. :",
+        "genre": "Split zines.; Personal zines.;",
+        "publisher": "the authors,",
+        "location": "Eugene, OR :",
+        "byline": "Alex Wrekk and W. Bucket.",
+        "650$a - lcsh": "Endometriosis",
+        "dimensions": "22 cm."
+      },
+      "color": "rgb(35,232,252)",
+      "size": 10.0
+    },
+    {
+      "label": "Clara Marie candycane \u0026 me",
+      "x": -147.4645538330078,
+      "y": 173.44688415527344,
+      "id": "Clara Marie candycane \u0026 me",
+      "attributes": {
+        "date": "2005",
+        "illustrated?": "ill.",
+        "notes": "Cover title.;Gift of Celia C. Perez, donated in 2009.",
+        "author": "Miranda Hale",
+        "description": "By Miranda Hale of the Pleiades, this zine focuses on her relationship with her step-niece, who lives in Taiwan but visits often.  Hale\u0027s niece, Emma, is a typical five year old, and the author enjoys taking care of her, and tells stories about what they do, such as knitting and playing dress up.  At the end of the cut and paste zine filled with found photographs of babies as well as a few of Miranda and Emily, Miranda offers tips for outings and adventures with young people like crafts, reading, and playing outside.",
+        "title": "Clara Marie candycane \u0026 me",
+        "pages": "[22] p. :",
+        "genre": "24 hour zines.; Fanzines.; Personal zines.",
+        "publisher": "the author,",
+        "location": "Spokane, WA :",
+        "byline": "Miranda Hale.",
+        "650$a - lcsh": "Nieces",
+        "dimensions": "11 cm"
+      },
+      "color": "rgb(187,106,231)",
+      "size": 10.0
+    },
+    {
+      "label": "West star land",
+      "x": 304.1777648925781,
+      "y": -369.74468994140625,
+      "id": "West star land",
+      "attributes": {
+        "date": "2005",
+        "illustrated?": "ill.",
+        "notes": "Cover title.;Gift of Sabrina Margarita Alcantara, donated in 2009.",
+        "author": "Kerry Ann Lee",
+        "description": "This travel perzine describes Wellington, New Zealand resident Kerry Ann Lee\u0027s 2005 trip to the United States. For forty-four days,  Kerry travels with her friend Thomas and visits family and friends in San Francisco, Boston, New York City, Philadelphia, Washington DC, Memphis, and Santa Monica. She writes detailed journal entries about such things as riding public transportation, staying in loud motels, eating at lots of delicious vegan restaurants, and visiting museums and tourist attractions. Kerry lists many of her favorite destinations, observes variations in culture and demeanor, describes various Chinatowns, and shares lots of photographs and illustrations from her trip. She includes a reference list of the places she visited, vegetarian recipes, and her email address.",
+        "title": "West star land",
+        "650$v": "Diaries.",
+        "pages": "48 p. :",
+        "subtitle": "\u0027a most excellent adventure\u0027",
+        "genre": "Personal zines.; ;",
+        "publisher": "the author,",
+        "location": "Wellington, New Zealand :",
+        "650$a - lcsh": "Lee, Kerry Ann; Chinese",
+        "dimensions": "22 cm"
+      },
+      "color": "rgb(35,252,251)",
+      "size": 10.0
+    },
+    {
+      "label": "Literary zines.",
+      "x": -693.5860595703125,
+      "y": 64.29097747802734,
+      "id": "Literary zines.",
+      "attributes": { "type": "Genre" },
+      "color": "rgb(238,36,107)",
+      "size": 10.0
+    },
+    {
+      "label": "Brainscan",
+      "x": 77.45830535888672,
+      "y": -19.938613891601562,
+      "id": "Brainscan",
+      "attributes": {
+        "date": "2010",
+        "illustrated?": "ill.",
+        "notes": "Cover title.",
+        "author": "Alex Wrekk",
+        "description": "This minizine by Alex Wrekk was part of a 24-hour zine challenge. It tells the story of Alex\u0027s post office boxes and pen pals from the start of her zine-making career and includes handwriting and clip art images. The cover is black cardstock, and the archives copy has beans printed on it in silver.",
+        "title": "Brainscan",
+        "pages": "[30 ] :",
+        "subtitle": "a 24 hour zine challenge zine.",
+        "genre": "24-hour-zines.; Personal zines.;",
+        "publisher": "Alex Wrekk,",
+        "location": "Portland, OR :",
+        "650$a - lcsh": "Letter writing; Postal service",
+        "dimensions": "12cm."
+      },
+      "color": "rgb(184,102,238)",
+      "size": 10.0
+    },
+    {
+      "label": "[My mystery girl.]",
+      "x": 374.93878173828125,
+      "y": 14.179871559143066,
+      "id": "[My mystery girl.]",
+      "attributes": {
+        "date": "2006",
+        "illustrated?": "ill.",
+        "pages": "24 p. :",
+        "notes": "Title from ZineWiki.com.;Gift of Sarah Rose, donated in 2011.",
+        "author": "Mae Undead",
+        "genre": "Personal zines.; 24-hour zines.;",
+        "publisher": "the author",
+        "description": "My Mystery Girl is a split zine between Lisa and her alter ego, Mae Undead. She/they write fiction and nonfiction about opening Velouria\u0027s Red Hair zine distro, grammar, true life ghost stories from living in the Philippines, and fiction about zombies and dead people. She also includes a mix tape playlist (and compares them to CDs), drawings of women and zombies, zine reviews, and photographs.",
+        "location": "San Francisco, CA :",
+        "title": "[My mystery girl.]",
+        "650$a - lcsh": "Filipino American women; Chinese American women; Ghosts; Zombies",
+        "dimensions": "14 cm."
+      },
+      "color": "rgb(184,102,238)",
+      "size": 10.0
+    },
+    {
+      "label": "Adventures with Kidney Stones",
+      "x": 248.93887329101562,
+      "y": -440.6576843261719,
+      "id": "Adventures with Kidney Stones",
+      "attributes": {
+        "date": "2007",
+        "illustrated?": "ill.",
+        "notes": "Cover title.",
+        "author": "Rebekah Buchanan",
+        "description": "In this mini 24 hour zine graduate student and new mom Rebekah tells of her painful experience with a kidney stone. The zine is typed, with small diagrams of bodily functions and of the emergency room.",
+        "title": "Adventures with Kidney Stones",
+        "pages": "24 p. :",
+        "subtitle": "a 24 hour zine exprience /",
+        "genre": "Personal zines.; ;",
+        "publisher": "the author",
+        "location": "Philadelphia, PA :",
+        "byline": "Rebekah Buchanan.",
+        "650$a - lcsh": "Women; Graduate students; Mothers; Kidneys",
+        "dimensions": "7 cm."
+      },
+      "color": "rgb(35,252,251)",
+      "size": 10.0
+    },
+    {
+      "label": "Eighteen long days",
+      "x": 443.39593505859375,
+      "y": -329.8195495605469,
+      "id": "Eighteen long days",
+      "attributes": {
+        "date": "2007",
+        "illustrated?": "ill.",
+        "notes": "Cover title.",
+        "author": "Leann Leake",
+        "description": "College student, artist, writer, and wheat-free vegan Leann Leake takes a trip through Virginia, Ohio, and Illinois with her sister, writing a diary and sketching her thoughts throughout, the highlight being a workshop given by Lynda Barry. At the end, there is a guide to Chicago.",
+        "title": "Eighteen long days",
+        "pages": "[60 p.] :",
+        "subtitle": "a perzine/travel journal in comics, sketches, and words /",
+        "genre": "Personal zines; ;",
+        "publisher": "the author,",
+        "location": "Massachusetts :",
+        "byline": "Leann Leake.",
+        "650$a - lcsh": "Women college students",
+        "dimensions": "22 cm."
+      },
+      "color": "rgb(35,252,251)",
+      "size": 10.0
+    },
+    {
+      "label": "Split zines.",
+      "x": 481.3200988769531,
+      "y": -675.9003295898438,
+      "id": "Split zines.",
+      "attributes": { "type": "Genre" },
+      "color": "rgb(64,60,252)",
+      "size": 10.0
+    },
+    {
+      "label": "displacing love...",
+      "x": -844.010009765625,
+      "y": 198.88720703125,
+      "id": "displacing love...",
+      "attributes": {
+        "date": "1999",
+        "illustrated?": "illustrations",
+        "notes": "Cover title.",
+        "author": "Lauren Michele Fardig",
+        "description": "19-year-old Lauren wrote twenty-seven poems in the span of four hours on topics including love, writing, age, the weather, and mail. Printed on blue paper, the poems are formatted vertically and time-stamped. There are hand drawn images and photobooth photos throughout the zine.",
+        "title": "displacing love...",
+        "pages": "34 unnumbered pages :",
+        "genre": "Literary zines.; Zines.;",
+        "publisher": "the author,",
+        "location": "New York, NY:",
+        "byline": "Lauren Fardig.",
+        "650$a - lcsh": "Women college students; Teenage girls",
+        "dimensions": "11 cm"
+      },
+      "color": "rgb(220,37,43)",
+      "size": 10.0
+    },
+    {
+      "label": "Tick tock biological clock",
+      "x": 175.45033264160156,
+      "y": -11.490215301513672,
+      "id": "Tick tock biological clock",
+      "attributes": {
+        "date": "2010",
+        "illustrated?": "ill.",
+        "notes": "\"a 24 hour zine thing zine!\";Purchased from the author via Etsy in 2012.;Purchased from Brown Recluse Zine Distro in 2013.;Title from cover.",
+        "author": "Jolie Nunez Noggle",
+        "description": "In this 24-hour zine, 32-year-old Jolie writes that after being \"anti-baby\" for many years she is beginning to rethink starting a family. She shares her history of pregnancy scares, bad experiences caring for other people\u0027s children, a surgery that may prevent her from ever conceiving, and thoughts on having a discussion with her husband about having a child.",
+        "title": "Tick tock biological clock",
+        "pages": "23 p. :",
+        "subtitle": "(the sequel) /",
+        "genre": "Personal zines.; 24-hour zines.;",
+        "publisher": "the author,",
+        "location": "Union City, Ind. :",
+        "byline": "Jolie Nunez-Noggle.",
+        "650$a - lcsh": "Married women; Hispanic American women; Motherhood; Childlessness",
+        "dimensions": "14 cm."
+      },
+      "color": "rgb(184,102,238)",
+      "size": 10.0
+    },
+    {
+      "label": "She magazine",
+      "x": -22.423080444335938,
+      "y": 448.9222717285156,
+      "id": "She magazine",
+      "attributes": {
+        "date": "2010",
+        "illustrated?": "chiefly ill.",
+        "notes": "Cover title.;Purchased from the author at the Feminist Zinefest, 2012.;2nd limited edition, published in 2011.",
+        "author": "Grigoropol Dre",
+        "description": "Created as a twenty-four-hour zine project, this comic documents a fashion-conscious student tricking an unstylish woman into believing that the student is a fashion photographer and the woman her model.  Ultimately, her plan backfires. The zine\u0027s cover is painted with watercolor.",
+        "title": "She magazine",
+        "650$v": "Comic books, strips, etc.",
+        "pages": "[20] p. :",
+        "subtitle": "a 24 hour comic /",
+        "genre": "Minicomics.; 24-hour zines.;",
+        "publisher": "the artist,",
+        "location": "Philadelphia, PA :",
+        "byline": "by Dre Time.",
+        "650$a - lcsh": "Fashion photography",
+        "dimensions": "22 cm."
+      },
+      "color": "rgb(181,104,166)",
+      "size": 10.0
+    },
+    {
+      "label": "1-Aug-06",
+      "x": 20.193965911865234,
+      "y": -388.12359619140625,
+      "id": "1-Aug-06",
+      "attributes": {
+        "date": "2006",
+        "illustrated?": "illustrations",
+        "notes": "Cover title.",
+        "author": "Celia C PeÃƒÃ…rez",
+        "description": "Celia Perez shares the events of her day on August 1, 2006. Celia, her partner, and their infant son go to the Farmer\u0027s Market, hang out in their air-conditioned bedroom, buy a light up drum kit, and watch an episode of \"Six Feet Under.\" She comments on the news of Fidel Castro\u0027s surgery and includes a tidbit of information about the tradition of saying \"rabbit, rabbit, rabbit\" at the start of each month.",
+        "title": "1-Aug-06",
+        "pages": "14 unnumbered pages :",
+        "genre": "Personal zines.; ;",
+        "publisher": "the author,",
+        "location": "Chicago, IL :",
+        "byline": "by Celia Perez.",
+        "650$a - lcsh": "Parenting; Hispanic Americans; Hispanic Americans; Librarians",
+        "dimensions": "11 cm"
+      },
+      "color": "rgb(35,252,251)",
+      "size": 10.0
+    },
+    {
+      "label": "Minicomics.",
+      "x": 182.90280151367188,
+      "y": 632.9976806640625,
+      "id": "Minicomics.",
+      "attributes": { "type": "Genre" },
+      "color": "rgb(47,240,42)",
+      "size": 10.0
+    },
+    {
+      "label": "Kiss \u0026 tell.",
+      "x": 253.04403686523438,
+      "y": 116.16061401367188,
+      "id": "Kiss \u0026 tell.",
+      "attributes": {
+        "date": "2010",
+        "illustrated?": "ill.",
+        "pages": "21 p.",
+        "notes": "Cover title.",
+        "author": "Jem Ross",
+        "genre": "Personal zines.; 24-hour-zines.;",
+        "publisher": "The author,",
+        "description": "Jem Ross shares her \"sex life in 21 pages.\" She relates  sexual experiences from \"Selling the V-Card\" in high school to having sex with women, using sex toys, having an orgy, and learning to love anal sex. The twentysomething author maintains a website http://www.jemibook.com and a personal blog http://stoptalkingletsdoit.wordpress.com.",
+        "location": "Brooklyn, NY:",
+        "title": "Kiss \u0026 tell.",
+        "650$a - lcsh": "Sex; Anal sex",
+        "dimensions": "14 cm"
+      },
+      "color": "rgb(184,102,238)",
+      "size": 10.0
+    },
+    {
+      "label": "Scissor heart.",
+      "x": 98.40802764892578,
+      "y": -119.60775756835938,
+      "id": "Scissor heart.",
+      "attributes": {
+        "date": "2008",
+        "illustrated?": "ill.",
+        "notes": "Cover title.;Gift of Sarah Rose, donated in 2011.",
+        "author": "Niku Arbabi",
+        "description": "This short zine was done in 24 hours by a 31-year-old lesbian with anxiety disorder and irritable bowel syndrome. She writes about being estranged from her abusive father, medications, and lists of fears that and points of anxiety.",
+        "title": "Scissor heart.",
+        "650$v": "Specimens.",
+        "pages": "24 p. :",
+        "genre": "24-hour zines.; Personal zines.;",
+        "publisher": "Ephemeral Mailbox Museum",
+        "location": "Austin, TX :",
+        "650$a - lcsh": "Fear; Anxiety disorders; Rubber stamps; Fathers and daughters",
+        "dimensions": "10 cm."
+      },
+      "color": "rgb(184,102,238)",
+      "size": 10.0
+    },
+    {
+      "label": "That\u0027s a Wrap",
+      "x": 112.0851821899414,
+      "y": -471.7063293457031,
+      "id": "That\u0027s a Wrap",
+      "attributes": {
+        "date": "2002",
+        "illustrated?": "illustrations",
+        "notes": "Gift of Cheryl Tapper, donated in 2014.;Cover title.",
+        "author": "Celia C PeÃƒÃ…rez",
+        "description": "Celia, a librarian of color, writes about her 2002, month by month. She writes about her displeasure with her job. Other significant events include attending her first professional conference, spending her 30th birthday weekend in New York, and her 5th wedding anniversary. She includes a list of the books she read each month and ends the zine with an essay on resolutions.",
+        "title": "That\u0027s a Wrap",
+        "pages": "14 unnumbered pages :",
+        "subtitle": "2002 /",
+        "genre": "Personal zines.; ;",
+        "publisher": "the author,",
+        "location": "Chicago, IL :",
+        "byline": "by Celia Perez.",
+        "650$a - lcsh": "Librarians; Hispanic Americans",
+        "dimensions": "22 cm"
+      },
+      "color": "rgb(35,252,251)",
+      "size": 10.0
+    },
+    {
+      "label": "2 o\u0027clock a.m.",
+      "x": -843.0515747070312,
+      "y": -63.987117767333984,
+      "id": "2 o\u0027clock a.m.",
+      "attributes": {
+        "date": "1996",
+        "illustrated?": "ill.",
+        "notes": "Cover title.;Gift of Marissa Falco, donated in 2010; gift of Sarah From, donated in 2015.",
+        "author": "Ciara Xyerra",
+        "description": "Ciara Xyerra\u0027s minizine of haikus was written in three hours. All contain the time they were written, between 2 and 3 AM. The zine is illustrated with hand drawn backdrops and the cover features a picture of a child surrounded by stars.",
+        "title": "2 o\u0027clock a.m.",
+        "pages": "[15] p. :",
+        "subtitle": "haikus /",
+        "genre": "Literary zines.; ;",
+        "location": "Bowling Green, OH : the author",
+        "byline": "Ciara Xyerra.",
+        "650$a - lcsh": "Haiku, American; Punk culture",
+        "dimensions": "12 cm"
+      },
+      "color": "rgb(232,23,96)",
+      "size": 10.0
+    },
+    {
+      "label": "Sixteen pages",
+      "x": -466.1593322753906,
+      "y": 88.81658935546875,
+      "id": "Sixteen pages",
+      "attributes": {
+        "date": "2003",
+        "illustrated?": "ill.",
+        "notes": "Cover title.",
+        "author": "Jesse Castaldi",
+        "description": "This 24-hour litzine contains typeset poetry, a hand-drawn map and key to the village of Lea, and transcriptions of several remembered dream fragments. It zine is bound by green thread and is covered by translucent striped tissue paper. It is associated with LiveJournal username: aslant.",
+        "title": "Sixteen pages",
+        "650$v": "Specimens.",
+        "pages": "[13] p. :",
+        "subtitle": "words + pictures",
+        "genre": "24-hour zines.; Literary zines.;",
+        "publisher": "the authors,",
+        "location": "Somerville, MA :",
+        "650$a - lcsh": "Typesetting; American poetry",
+        "dimensions": "14 cm"
+      },
+      "color": "rgb(250,29,172)",
+      "size": 10.0
+    },
+    {
+      "label": "Personal zines.",
+      "x": 195.68467712402344,
+      "y": -237.22494506835938,
+      "id": "Personal zines.",
+      "attributes": { "type": "Genre" },
+      "color": "rgb(35,252,251)",
+      "size": 10.0
+    },
+    {
+      "label": "Jnkfd",
+      "x": -47.8051872253418,
+      "y": -174.3342742919922,
+      "id": "Jnkfd",
+      "attributes": {
+        "date": "2006",
+        "illustrated?": "ill.",
+        "notes": "Cover title.;Gift of Megan Gendell; donated in 2009.;Gift of Sweet Candy distro; donated in 2012.",
+        "author": "Judy Moses",
+        "description": "A twenty-four hour zine from 2007 by Junk Food publisher, Etsy seller, Livejournal and Myspace user Judy Moses, the quarter-sized work is filled with drawings, one eulogizing publisher Allison Crew (of girlmom.com,) and others about her husband, cuteness, hair and hair color, making clothes, and tattoos. In addition, she writes at length about her recent breast reduction surgery and photocopies drawings by her daughter, Eska. The zine is high-quality photocopy with backgrounds of different fabrics.",
+        "title": "Jnkfd",
+        "pages": "[20] p. :",
+        "genre": "24-hour zines.; Personal zines.;",
+        "publisher": "The author,",
+        "location": "Syracuse, NY :",
+        "byline": "by Judy Blanco.",
+        "650$a - lcsh": "Married women; Mothers; Reduction mammaplasty; Surgery, Plastic",
+        "dimensions": "14 cm."
+      },
+      "color": "rgb(184,102,238)",
+      "size": 10.0
+    },
+    {
+      "label": "Daily Comics",
+      "x": 228.39895629882812,
+      "y": 762.91259765625,
+      "id": "Daily Comics",
+      "attributes": {
+        "date": "2005",
+        "illustrated?": "ill.",
+        "pages": "v :",
+        "notes": "Description based on : no. 2, published in October 2005; title from cover.",
+        "author": "Cody Gieselman",
+        "genre": "Minicomics.; ;",
+        "publisher": "the author,",
+        "description": "Cody Geiselman writes one comic per day for the month of October 2005. The comics diary documents her relationship with her partner Steve and their cats, life in an old house, riding bikes, and getting her teaching certification. The format is minimalist and surreal and has two cells per page, based on the art of James Kochalka.",
+        "location": "S.I. :",
+        "title": "Daily Comics",
+        "byline": "Cody Gieselman.",
+        "dimensions": "11cm."
+      },
+      "color": "rgb(33,238,28)",
+      "size": 10.0
+    },
+    {
+      "label": "Fanzines.",
+      "x": -296.5735168457031,
+      "y": 311.8848571777344,
+      "id": "Fanzines.",
+      "attributes": { "type": "Genre" },
+      "color": "rgb(255,205,58)",
+      "size": 10.0
+    },
+    {
+      "label": "Douze jours en France",
+      "x": 412.6003112792969,
+      "y": -232.6404571533203,
+      "id": "Douze jours en France",
+      "attributes": {
+        "date": "1999",
+        "illustrated?": "ill.",
+        "notes": "Cover title.;Gift of Sharon Druck, doanted 2009.",
+        "author": "Anne Nylander",
+        "description": "Photographs, sketches, postcards, clippings, and ticket stubs fill this travelogue about a high school sophomore\u0027s school trip to France. Handwritten with margins annotated with illustrations and clippings, this zine details travel anecdotes, discusses food and restaurants, rates various means of transportation, and describes the adventures of three friends and their classmates as they find their way through France and Italy, getting lost looking for ice cream, tripping over loose cobblestones in museums, and marveling at the house of Paul Cezanne.",
+        "title": "Douze jours en France",
+        "pages": "110 p. :",
+        "subtitle": "12 days in France /",
+        "genre": "Personal zines.; ;",
+        "publisher": "the author,",
+        "location": "Seattle, WA :",
+        "byline": "Anne Nylander.",
+        "650$a - lcsh": "High school students; Teenage girls",
+        "dimensions": "22 cm."
+      },
+      "color": "rgb(35,252,251)",
+      "size": 10.0
+    },
+    {
+      "label": "Vinnies",
+      "x": -474.7807312011719,
+      "y": 279.3367614746094,
+      "id": "Vinnies",
+      "attributes": {
+        "date": "1999",
+        "illustrated?": "ill.",
+        "notes": "Cover title.",
+        "author": "Vanessa Berry",
+        "description": "Vanessa Berry writes about visiting every St. Vincent de Paul thrift store in Sydney, 69 of them in less than 2 weeks. She chronicles her thoughts about each store\u0027s prices and appearance, and the treasures that she finds.",
+        "title": "Vinnies",
+        "pages": "[62] p. :",
+        "genre": "Fanzines.; ;",
+        "publisher": "V. Berry,",
+        "location": "Strawberry Hills, N.S.W :",
+        "byline": "Vanessa Berry.",
+        "650$a - lcsh": "Thrift shops; Secondhand trade; Collectibles",
+        "dimensions": "21 cm."
+      },
+      "color": "rgb(232,203,37)",
+      "size": 10.0
+    },
+    {
+      "label": "If you like penguins and getting stoned and reading random thoughts",
+      "x": -142.87374877929688,
+      "y": -73.83834838867188,
+      "id": "If you like penguins and getting stoned and reading random thoughts",
+      "attributes": {
+        "date": "2010",
+        "illustrated?": "ill.",
+        "notes": "Cover title.;Purchased from the artist at Pete\u0027s Mini Zine Fest in 2013.",
+        "author": "Dawn.",
+        "description": "In this handwritten personal zine, the author shares thoughts about spontaneity, drugs, top five lists and penguin activities alongside drawings.",
+        "title": "If you like penguins and getting stoned and reading random thoughts",
+        "650$v": "Miscellanea.;Comic books, strips, etc.",
+        "pages": "22 p. :",
+        "subtitle": "a 24 hour zine thing project  /",
+        "genre": "24-hour zines.; Personal zines.;",
+        "publisher": "The author,",
+        "location": "[Queens, NY] :",
+        "byline": "by Dawn.",
+        "650$a - lcsh": "Self; Chinese American women; Asian American women; Penguins",
+        "dimensions": "14 cm."
+      },
+      "color": "rgb(184,102,238)",
+      "size": 10.0
+    }
+  ],
+  "edges": [
+    {
+      "source": "Kiss \u0026 tell.",
+      "target": "Personal zines.",
+      "id": "24",
+      "attributes": {},
+      "color": "rgb(109,177,244)",
+      "size": 1.0
+    },
+    {
+      "source": "West star land",
+      "target": "Personal zines.",
+      "id": "37",
+      "attributes": {},
+      "color": "rgb(35,252,251)",
+      "size": 1.0
+    },
+    {
+      "source": "1-Aug-06",
+      "target": "Personal zines.",
+      "id": "0",
+      "attributes": {},
+      "color": "rgb(35,252,251)",
+      "size": 1.0
+    },
+    {
+      "source": "If you like penguins and getting stoned and reading random thoughts",
+      "target": "24-hour zines.",
+      "id": "17",
+      "attributes": {},
+      "color": "rgb(219,66,236)",
+      "size": 1.0
+    },
+    {
+      "source": "Trampoline",
+      "target": "Minicomics.",
+      "id": "35",
+      "attributes": {},
+      "color": "rgb(114,172,104)",
+      "size": 1.0
+    },
+    {
+      "source": "Trampoline",
+      "target": "24-hour zines.",
+      "id": "34",
+      "attributes": {},
+      "color": "rgb(218,67,200)",
+      "size": 1.0
+    },
+    {
+      "source": "Scissor heart.",
+      "target": "Personal zines.",
+      "id": "26",
+      "attributes": {},
+      "color": "rgb(109,177,244)",
+      "size": 1.0
+    },
+    {
+      "source": "She magazine",
+      "target": "Minicomics.",
+      "id": "28",
+      "attributes": {},
+      "color": "rgb(114,172,104)",
+      "size": 1.0
+    },
+    {
+      "source": "Brainscan",
+      "target": "24-hour zines.",
+      "id": "6",
+      "attributes": {},
+      "color": "rgb(219,66,236)",
+      "size": 1.0
+    },
+    {
+      "source": "Brainscan",
+      "target": "Personal zines.",
+      "id": "7",
+      "attributes": {},
+      "color": "rgb(109,177,244)",
+      "size": 1.0
+    },
+    {
+      "source": "Douze jours en France",
+      "target": "Personal zines.",
+      "id": "15",
+      "attributes": {},
+      "color": "rgb(35,252,251)",
+      "size": 1.0
+    },
+    {
+      "source": "displacing love...",
+      "target": "Literary zines.",
+      "id": "12",
+      "attributes": {},
+      "color": "rgb(229,36,75)",
+      "size": 1.0
+    },
+    {
+      "source": "Tick tock biological clock",
+      "target": "24-hour zines.",
+      "id": "32",
+      "attributes": {},
+      "color": "rgb(219,66,236)",
+      "size": 1.0
+    },
+    {
+      "source": "Tick tock biological clock",
+      "target": "Personal zines.",
+      "id": "33",
+      "attributes": {},
+      "color": "rgb(109,177,244)",
+      "size": 1.0
+    },
+    {
+      "source": "Don\u0027t send me flowers",
+      "target": "Personal zines.",
+      "id": "13",
+      "attributes": {},
+      "color": "rgb(35,242,251)",
+      "size": 1.0
+    },
+    {
+      "source": "Clara Marie candycane \u0026 me",
+      "target": "Personal zines.",
+      "id": "10",
+      "attributes": {},
+      "color": "rgb(111,179,241)",
+      "size": 1.0
+    },
+    {
+      "source": "If you like penguins and getting stoned and reading random thoughts",
+      "target": "Personal zines.",
+      "id": "18",
+      "attributes": {},
+      "color": "rgb(109,177,244)",
+      "size": 1.0
+    },
+    {
+      "source": "That\u0027s a Wrap",
+      "target": "Personal zines.",
+      "id": "31",
+      "attributes": {},
+      "color": "rgb(35,252,251)",
+      "size": 1.0
+    },
+    {
+      "source": "2 o\u0027clock a.m.",
+      "target": "Literary zines.",
+      "id": "3",
+      "attributes": {},
+      "color": "rgb(235,29,101)",
+      "size": 1.0
+    },
+    {
+      "source": "Adventures with Kidney Stones",
+      "target": "Personal zines.",
+      "id": "5",
+      "attributes": {},
+      "color": "rgb(35,252,251)",
+      "size": 1.0
+    },
+    {
+      "source": "Clara Marie candycane \u0026 me",
+      "target": "Fanzines.",
+      "id": "9",
+      "attributes": {},
+      "color": "rgb(221,155,144)",
+      "size": 1.0
+    },
+    {
+      "source": "Jnkfd",
+      "target": "24-hour zines.",
+      "id": "21",
+      "attributes": {},
+      "color": "rgb(219,66,236)",
+      "size": 1.0
+    },
+    {
+      "source": "Vinnies",
+      "target": "Fanzines.",
+      "id": "36",
+      "attributes": {},
+      "color": "rgb(243,204,47)",
+      "size": 1.0
+    },
+    {
+      "source": "Kiss \u0026 tell.",
+      "target": "24-hour zines.",
+      "id": "23",
+      "attributes": {},
+      "color": "rgb(219,66,236)",
+      "size": 1.0
+    },
+    {
+      "source": "Scissor heart.",
+      "target": "24-hour zines.",
+      "id": "25",
+      "attributes": {},
+      "color": "rgb(219,66,236)",
+      "size": 1.0
+    },
+    {
+      "source": "Jnkfd",
+      "target": "Personal zines.",
+      "id": "22",
+      "attributes": {},
+      "color": "rgb(109,177,244)",
+      "size": 1.0
+    },
+    {
+      "source": "Clara Marie candycane \u0026 me",
+      "target": "24-hour zines.",
+      "id": "8",
+      "attributes": {},
+      "color": "rgb(221,68,232)",
+      "size": 1.0
+    },
+    {
+      "source": "Sixteen pages",
+      "target": "24-hour zines.",
+      "id": "29",
+      "attributes": {},
+      "color": "rgb(252,29,203)",
+      "size": 1.0
+    },
+    {
+      "source": "[My mystery girl.]",
+      "target": "24-hour zines.",
+      "id": "1",
+      "attributes": {},
+      "color": "rgb(219,66,236)",
+      "size": 1.0
+    },
+    {
+      "source": "Don\u0027t send me flowers",
+      "target": "Split zines.",
+      "id": "14",
+      "attributes": {},
+      "color": "rgb(49,146,252)",
+      "size": 1.0
+    },
+    {
+      "source": "A queer and trans fat activist timeline",
+      "target": "Fanzines.",
+      "id": "4",
+      "attributes": {},
+      "color": "rgb(243,204,47)",
+      "size": 1.0
+    },
+    {
+      "source": "Daily Comics",
+      "target": "Minicomics.",
+      "id": "11",
+      "attributes": {},
+      "color": "rgb(40,239,35)",
+      "size": 1.0
+    },
+    {
+      "source": "[My mystery girl.]",
+      "target": "Personal zines.",
+      "id": "2",
+      "attributes": {},
+      "color": "rgb(109,177,244)",
+      "size": 1.0
+    },
+    {
+      "source": "She magazine",
+      "target": "24-hour zines.",
+      "id": "27",
+      "attributes": {},
+      "color": "rgb(218,67,200)",
+      "size": 1.0
+    },
+    {
+      "source": "Sixteen pages",
+      "target": "Literary zines.",
+      "id": "30",
+      "attributes": {},
+      "color": "rgb(244,32,139)",
+      "size": 1.0
+    },
+    {
+      "source": "Eighteen long days",
+      "target": "Personal zines.",
+      "id": "16",
+      "attributes": {},
+      "color": "rgb(35,252,251)",
+      "size": 1.0
+    }
+  ]
+}
